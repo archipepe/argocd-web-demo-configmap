@@ -18,7 +18,7 @@ data:
         </style>
       </head>
       <body>
-        <h1>¡Hola desde ArgoCD usando ConfigMap!</h1>
+        <h1>Hola desde ArgoCD usando ConfigMap!</h1>
         <p>Este contenido puede cambiarse editando solo YAML.</p>
       </body>
     </html>
